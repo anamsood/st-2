@@ -1,0 +1,18 @@
+.footer {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 10px;
+  background-color: whitesmoke;
+  height: 25vh;
+  align-items: center;
+}
+ul {
+  list-style: none;
+  letter-spacing: 2px;
+}
+li {
+  margin-top: 10px;
+  font-weight: bold;
+  color: rgba(42, 41, 41, 0.67);
+  text-decoration: underline;
+}
